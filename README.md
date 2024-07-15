@@ -3,7 +3,7 @@
 - 👨‍🏫 Atualmente estou trabalhando como Professor do Novo Ensino Médio no seguimento de Inovação e Startup
 -  :school: Graduado em Redes de Computadores
 
-##Atuação
+## Atuação
   Network Support Analyst at SIPAM
 
 Graduated in Computer Networks with specializatio
