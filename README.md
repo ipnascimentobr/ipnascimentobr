@@ -4,9 +4,8 @@
 -  :school: Graduado em Redes de Computadores
 
 ## Atuação
-  Network Support Analyst at SIPAM
+ - Network Support Analyst at SIPAM
 
-Graduated in Computer Networks with specializatio
 ## 🔌Conecte-se
 <div align="center">
 
