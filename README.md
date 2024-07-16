@@ -1,7 +1,18 @@
 # Olá Seja Bem Vindo 👋
   <strong>Eu sou Israel Pinheiro  </strong>
+  <p>
+  Sou um entusiasta da tecnologia, sempre explorando novos conhecimentos e aprimorando minhas habilidades. 
+  Atualmente, estou me aprofundando em machine learning e utilizando ferramentas para desenvolver uma Assistente Virtual que tornará as aulas mais interativas e produtivas. 
+  A tecnologia está transformando a educação, e eu estou aqui para fazer parte dessa revolução! 😊   
+  </p>
+  
 - 👨‍🏫 Atualmente estou trabalhando como Professor do Novo Ensino Médio no seguimento de Inovação e Startup
 -  :school: Graduado em Redes de Computadores
+
+
+
+
+
 
 ## Atuação
  - Network Support Analyst at SIPAM
@@ -25,6 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitOriginal" alt="Git-Original" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="100" height="100"/>&nbsp;
 
 
 </div>      
