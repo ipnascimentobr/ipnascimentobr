@@ -13,8 +13,7 @@
 
 
 
-
-## Atuação
+## Experiências
  - Network Support Analyst at SIPAM
 
 ## 🔌Conecte-se
@@ -46,9 +45,14 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipnascimentobr&locale=pt-br&layout=compact)](https://github.com/ipnascimento/)  ![Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=ipnascimentobr&theme=default&show_icons=true&custom_title=IPNascimento)
 
+
+
 </div>
 
+<div>
 
+  <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ipnascimentobr&row=4&theme=onedark&no-frame=true"/>
+</div>
 <!--
 **ipnascimentobr/ipnascimentobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
